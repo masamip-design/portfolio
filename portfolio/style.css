@@ -1,0 +1,49 @@
+body{
+  color: #333;
+  font-family: 'Corben', cursive;
+  font-size: 15px;
+  margin-left: 20px;
+}
+
+.header-logo {
+  background-color: #33cccc;
+  color: #F5F5F5;
+  font-size: 30px;
+  height: 50px;
+  width: 90%;
+}
+
+.comment{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.containts{
+  border-top: 20px solid white;
+  color: #33cccc;
+  font-size: 20px;
+}
+
+.sample{
+  height: 200px;
+  margin-left: 10px;
+}
+
+a{
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-left: 20px;
+}
+
+font{
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.profile{
+  border-bottom: 4px solid #33cccc;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 13px;
+}
+
+img{
+  height: 20px;
+  margin-bottom: 20px;
+}
